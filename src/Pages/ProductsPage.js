@@ -18,7 +18,7 @@ class ProductsPage extends React.Component {
           paragraph="Fun For Kids & Breathable" />
         <Card
           img='https://m.media-amazon.com/images/I/612W7eMeagL._AC_UL640_QL65_.jpg'
-          title='EO&#8482; Organic Frech Lavnder Hand Sanitizer Pray'
+          title='EO&#8482; Organic Fresh Lavnder Hand Sanitizer Pray'
           price='$20.99'
           paragraph="All Natural Organic Lavender Scent" />
         <Card
@@ -46,22 +46,22 @@ class ProductsPage extends React.Component {
           title='Travel Sized 75% Alcohol Hand Wipes'
           price='$24.99'
           paragraph="12pk 120 Sheets Hand Wipes" />
-          <Card
+        <Card
           img='https://m.media-amazon.com/images/I/61wQFDDdTlL._AC_UL640_QL65_.jpg'
           title='Cloth Face Mask With Clear Window'
           price='$20.99'
           paragraph="lear PlexiGlass Window For Deaf/Hearing Impaired" />
-          <Card
+        <Card
           img='https://m.media-amazon.com/images/I/41HZ42f+tnL._AC_UL640_QL65_.jpg'
           title='1Gal Froggys Simply Sanitizer'
           price='$35.99'
           paragraph="80% Alcohol & Great For Refills" />
-          <Card
+        <Card
           img='https://m.media-amazon.com/images/I/61VuZ+Xk+0L._AC_UL640_QL65_.jpg'
           title='20pk Mask Filters'
           price='$10.99'
           paragraph="Easy To Apply In Most Face Mask" />
-          <Card
+        <Card
           img='https://m.media-amazon.com/images/I/71rVbh7mLUL._AC_UL640_QL65_.jpg'
           title='50pk KN95 Face Mask'
           price='$95.99'
